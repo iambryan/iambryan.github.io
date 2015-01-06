@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: General | Snippets and Snags]]></title>
+  <title><![CDATA[Category: general | Snippets and Snags]]></title>
   <link href="http://iambryan.github.io/blog/categories/general/atom.xml" rel="self"/>
   <link href="http://iambryan.github.io/"/>
-  <updated>2015-01-06T16:16:37-05:00</updated>
+  <updated>2015-01-06T16:26:11-05:00</updated>
   <id>http://iambryan.github.io/</id>
   <author>
     <name><![CDATA[Bryan Sutherland]]></name>
