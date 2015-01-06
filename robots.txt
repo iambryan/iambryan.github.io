@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: http://iambryan.github.io/iambryan/sitemap.xml
+Sitemap: http://iambryan.github.io/sitemap.xml
