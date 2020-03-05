@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow: /myjunk/
 
 Sitemap: http://iambryan.github.io/sitemap.xml 
